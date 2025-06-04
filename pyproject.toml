@@ -21,6 +21,7 @@ dependencies = [
     "setuptools",
     "flask",
     "bootstrap-flask",
+    "Flask-WTF",
 ]
 
 [project.urls]

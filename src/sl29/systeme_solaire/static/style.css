@@ -1,0 +1,15 @@
+p{
+    color:red;
+}
+
+html{
+    background-color:salmon;
+    padding:50px;
+}
+
+body{
+    background-color:palegoldenrod;
+    border:100px solid magenta;
+    padding: 200px;
+    border-radius: 5000px;
+}
